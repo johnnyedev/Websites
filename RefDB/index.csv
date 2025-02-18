@@ -1,9 +1,10 @@
-Source,SourceName,Object,ObjectName,Type,Alignment,Description,Image
-"Anime","Dragon Ball Z","Character","Son Goku","Race: Saiyan","Good","Goku is the main protagonist.","goku.jpg"
-"Anime","Dragon Ball Z","Gear","Weighted Orange Gi","Type: Cloth","None","A weighted Gi used for training","gokus_orange_gi.jpg"
-"Anime","Dragon Ball Z","Weapon","Power Pole","Type: Staff","None","A red pole that can extend length to the users need","powerpole.png"
-"Anime","Dragon Ball Z","Technique","Kamehameha","Type: Ki Energy","None","An energy wave that can be released from users hands.","kamehameha.jpg"
-"Anime","Dragon Ball Z","Item","Dragon Balls","Type: Magical Item","None","Seven magical balls that can be used to summon the Eternal Dragon for a wish.","dragonball.jpg"
-"Anime","Rourouni Kenshin","Character","Kenshin Himura","Race: Human","Good","Kenshin Himura is a former assassin turned wanderer.","kenshin.jpg"
-"Movie","Star Wars","Weapon","Jedi's LightSaber","Type: Sword","None","A LightSaber is a powerful weapon of the Jedi.","lightsaber.jpg"
+Source,SourceName,Object,ObjectName,Type,Alignment,Description,Image,ImageLarge
+"Anime","Dragon Ball Z","Character","Son Goku","Race: Saiyan","Good","Goku is the main protagonist.","goku.jpg","goku_large.jpg"
+"Anime","Dragon Ball Z","Gear","Weighted Orange Gi","Type: Cloth","None","A weighted Gi used for training","gokus_orange_gi.jpg","gokus_orange_gi_large.jpg"
+"Anime","Dragon Ball Z","Weapon","Power Pole","Type: Staff","None","A red pole that can extend length to the users need","powerpole.png","powerpole_large.png"
+"Anime","Dragon Ball Z","Technique","Kamehameha","Type: Ki Energy","None","An energy wave that can be released from users hands.","kamehameha.jpg","kamehameha_large.jpg",
+"Anime","Dragon Ball Z","Item","Dragon Balls","Type: Magical Item","None","Seven magical balls that can be used to summon the Eternal Dragon for a wish.","dragonball.jpg","dragonball_large.jpg"
+"Anime","Dragon Ball Z","Item","Dragon Ball Radar","Type: Engineered Item","None","A device that allows one to track and locate the Dragon Balls.","db-radar.webp","db-radar_large.jpg"
+"Anime","Rourouni Kenshin","Character","Kenshin Himura","Race: Human","Good","Kenshin Himura is a former assassin turned wanderer.","kenshin.jpg","kenshin_large.jpg"
+"Movie","Star Wars","Weapon","Jedi's LightSaber","Type: Sword","None","A LightSaber is a powerful weapon of the Jedi.","lightsaber.jpg","lightsaber_large.jpg"
 
